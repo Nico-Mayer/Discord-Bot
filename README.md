@@ -1,2 +1,2 @@
 # Discord-Bot
-Test for my own Little Discord Bot
+Test for my own Little Discord Bot.
